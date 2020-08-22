@@ -26,7 +26,5 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-
 Recent graduate from University of Toronto - Class of 2020. 
 Statistics, Computer Science, Geographic Information Science, Human Geography
