@@ -11,7 +11,7 @@ tag: Computer Science
 
 This was a project done back in 2015 with a partner in a grade 12 computer science course. The purpose of the app was to create an application for his parent who works at an engineering company. The datasets were hourly climate data for an entire month. It consists of data such as temperature, dew point temperature, relative humidity, and many more. Because the dataset was large and complex (roughly 720 data points), the objective was to simplify the dataset into an easily digestable format that summarized key statistics. 
 
-The program was coded in Java using object-oriented programming. The codes are available here: [Repository](https://github.com/yunkevin/yunkevin.github.io/tree/master/code/weather_app/src)
+The program was coded in Java using object-oriented programming. The codes are available here: [Repository](https://github.com/yunkevin/yunkevin.github.io/tree/master/assets/data/weather_app/code/weather_app/src)
 
 # Objective 
 
