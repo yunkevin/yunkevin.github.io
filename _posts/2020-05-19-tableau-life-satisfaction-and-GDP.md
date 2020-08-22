@@ -1,3 +1,12 @@
+---
+layout: article
+title: Life Satisfaction and GDP
+mathjax: true
+show_edit_on_github: false
+data_source: tableau
+tag: Tableau
+---
+
 # Description 
 This project was done as part of the [Makeover Monday](https://www.makeovermonday.co.uk/data/) challenge. 
 

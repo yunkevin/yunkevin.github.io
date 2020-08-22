@@ -1,3 +1,12 @@
+---
+layout: article
+title: Superstore
+mathjax: true
+show_edit_on_github: false
+data_source: tableau
+tag: Tableau
+---
+
 # Description 
 This is the first project that I've done outside of Makeover Mondays. 
 The reason for that was that I wanted to try making a visualization related to the performance indicators of businesses. 

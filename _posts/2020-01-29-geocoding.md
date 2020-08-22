@@ -1,3 +1,12 @@
+---
+layout: article
+title: Geocoding
+mathjax: true
+show_edit_on_github: false
+data_source: gis
+tag: GIS
+---
+
 # Objective
 1. Identify schools in Toronto that meet all of the following criteria: 
    * Within 1 km of a drinking establishment 

@@ -1,3 +1,12 @@
+---
+layout: article
+title: Digitizing and Topology
+mathjax: true
+show_edit_on_github: false
+data_source: gis
+tag: GIS
+---
+
 # Objective 
 
 Create a map of University of Toronto - St. George Campus including the following:

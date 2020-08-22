@@ -1,9 +1,10 @@
 ---
 layout: article
-title: GIS - Remote Sensing
+title: Remote Sensing
 mathjax: true
 show_edit_on_github: false
 data_source: gis
+tag: GIS
 ---
 
 # Objective

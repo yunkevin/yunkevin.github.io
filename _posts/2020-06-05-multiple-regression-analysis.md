@@ -1,3 +1,12 @@
+---
+layout: article
+title: Multiple Regression Analysis
+mathjax: true
+show_edit_on_github: false
+data_source: stats
+tag: Statistics
+---
+
 Libraries
 =========
 

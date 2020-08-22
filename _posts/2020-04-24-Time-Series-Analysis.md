@@ -1,3 +1,12 @@
+---
+layout: article
+title: Time Series Analysis
+mathjax: true
+show_edit_on_github: false
+data_source: stats
+tag: Statistics
+---
+
 Loading Packages
 ================
 

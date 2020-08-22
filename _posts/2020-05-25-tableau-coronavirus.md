@@ -1,3 +1,12 @@
+---
+layout: article
+title: Coronavirus
+mathjax: true
+show_edit_on_github: false
+data_source: tableau
+tag: Tableau
+---
+
 # Description 
 This project focuses on displaying few statistics related to COVID-19. 
 Indicators such as 

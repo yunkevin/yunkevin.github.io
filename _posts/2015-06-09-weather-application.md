@@ -1,3 +1,12 @@
+---
+layout: article
+title: Weather Application
+mathjax: true
+show_edit_on_github: false
+data_source: cs
+tag: Computer Science
+---
+
 # Introduction 
 
 This was a project done back in 2015 with a partner in a grade 12 computer science course. The purpose of the app was to create an application for his parent who works at an engineering company. The datasets were hourly climate data for an entire month. It consists of data such as temperature, dew point temperature, relative humidity, and many more. Because the dataset was large and complex (roughly 720 data points), the objective was to simplify the dataset into an easily digestable format that summarized key statistics. 

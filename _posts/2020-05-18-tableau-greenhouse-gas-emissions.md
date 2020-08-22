@@ -1,3 +1,12 @@
+---
+layout: article
+title: Greenhouse Gas Emissions
+mathjax: true
+show_edit_on_github: false
+data_source: tableau
+tag: Tableau
+---
+
 # Description 
 This project was done as part of the [Makeover Monday](https://www.makeovermonday.co.uk/data/) challenge. 
 The project focused on the amount of greenhouse gas emissions created in the food cycle - starting prior to even farms. I felt that there was very little room of creativity on this project as the goal of the visualization was quite well-defined - to show the greenhouse gas emissions at each stage of the food cycle. 

@@ -1,3 +1,12 @@
+---
+layout: article
+title: Auto Insurance Rate
+mathjax: true
+show_edit_on_github: false
+data_source: tableau
+tag: Tableau
+---
+
 # Description 
 The first Tableau visualization that I have made. It was done as part of the [Makeover Monday](https://www.makeovermonday.co.uk/data/) challenge. 
 
