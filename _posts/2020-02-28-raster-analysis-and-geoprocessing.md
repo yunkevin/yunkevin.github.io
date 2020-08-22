@@ -1,3 +1,12 @@
+---
+layout: article
+title: [GIS] Raster Analysis and Geoprocessing
+mathjax: true
+show_edit_on_github: false
+show_date: false
+data_source: gis
+---
+
 # Objective
 
 Identify the best locations in the City of Toronto for buying a house based on the following criteria: 
