@@ -26,5 +26,6 @@ titles:
 key: page-about
 ---
 
-Recent graduate from University of Toronto - Class of 2020. 
-Statistics, Computer Science, Geographic Information Science, Human Geography
+Graduate from University of Toronto - Class of 2020. 
+
+Honours Bachelor of Science - Statistics, Computer Science, Geographic Information Science, Human Geography
