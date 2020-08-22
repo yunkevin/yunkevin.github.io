@@ -1,3 +1,9 @@
+---
+layout: article
+title: Document - Writing Posts
+mathjax: true
+---
+
 # Objective
 Create a set of four maps on one page
 1. Pan-sharpened image showing Landsat bands 4,3,2 (Upper Left)
