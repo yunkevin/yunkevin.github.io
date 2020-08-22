@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Raster Analysis and Geoprocessing
+title: GIS - Raster Analysis and Geoprocessing
 mathjax: true
 show_edit_on_github: false
 data_source: gis

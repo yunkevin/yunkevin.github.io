@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Remote Sensing
+title: GIS - Remote Sensing
 mathjax: true
 show_edit_on_github: false
 data_source: gis
