@@ -3,7 +3,6 @@ layout: article
 title: Remote Sensing
 mathjax: true
 show_edit_on_github: false
-show_date: false
 data_source: gis
 ---
 
